@@ -1,0 +1,3 @@
+[submodule "src/uc-code-formatter"]
+	path = src/uc-code-formatter
+	url = https://github.com/mimiski/uc-code-formatter.git
